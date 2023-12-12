@@ -7,4 +7,8 @@ Name :- Shruti Mukwane
 College Name :-Sipna college of engineering and technology
 
 Name :- Vasudha Mahajan
-College Name :- Sipna college of engineering and technology , Amravati.
+College Name :- Sipna college of engineering and technology , Amravati
+
+Name :-Shravani Konde
+College Name :- Bharati Vidyapeeth's College of Engineering for Women's ,Pune
+
