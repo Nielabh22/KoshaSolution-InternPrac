@@ -8,3 +8,6 @@ College Name :-Sipna college of engineering and technology
 
 Name :- Vasudha Mahajan
 College Name :- Sipna college of engineering and technology , Amravati.
+
+Name : Vaishnavi Kedar
+College Name : Bharati Vidyapeeth's College of Engineering for Women, Pune
