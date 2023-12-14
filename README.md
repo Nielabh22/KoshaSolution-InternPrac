@@ -12,4 +12,7 @@ College Name :- Sipna college of engineering and technology , Amravati.
 Name :- Payal Gawande
 College Name :- Bharati Vidyapeeth College of Enigineering for Women,Pune.
 
+Name :- Nandini Wahane
+College Name :- Sipna college of engineering and technology , Amravati.
+
 
