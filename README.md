@@ -12,4 +12,6 @@ College Name :- Sipna college of engineering and technology , Amravati.
 Name :- Payal Gawande
 College Name :- Bharati Vidyapeeth College of Enigineering for Women,Pune.
 
+Name :- Divyansh bhumarkar
+College name :- vidya Bharati mahavidyalaya , Amravati.
 
